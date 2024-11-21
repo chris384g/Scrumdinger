@@ -1,0 +1,96 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/xcshareddata/**/*
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+!*.xcworkspace/xcshareddata/
+!*.xcworkspace/xcshareddata/**/*
+*.xcuserdata/
+Scrumdinger.xcodeproj/
+
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Temporary files
+*.tmp
+*.swp
+*.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon must end with two \r
+Icon
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# User-specific files
+*.orig
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Other
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.bcsymbolmap
+*.xcarchive
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# Build
+build/
+Build/
+
+# Coverage
+*.profdata
+*.gcda
+*.gcno
+
+# Testing
+*.xctestresult
+*.plist
+
+# Logs
+*.log
+
+# Environment settings
+.env
+
