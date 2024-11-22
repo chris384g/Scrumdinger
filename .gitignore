@@ -12,7 +12,6 @@ DerivedData/
 !*.xcworkspace/xcshareddata/
 !*.xcworkspace/xcshareddata/**/*
 *.xcuserdata/
-Scrumdinger.xcodeproj/
 
 
 # Swift Package Manager
